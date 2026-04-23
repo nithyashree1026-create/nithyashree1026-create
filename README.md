@@ -8,13 +8,16 @@
 
 ## 🔥 My Projects
 
-### 🍲 Recipe Finder App  
+### 🍲 Recipe Finder App
 🔗 https://recipe-finder-3582ab.netlify.app  
 👉 Search recipes, ingredients, steps & videos  
 
-(More projects coming soon...)
+### 📝 Aesthetic To-Do List App
+🔗 https://aesthetic-nithya-todo-app.netlify.app  
+✨ Aesthetic To-Do web app with theme customization, date-wise task management and weekly progress tracking  
+⚙️ Built using HTML, CSS, JavaScript & LocalStorage  
 
----
+(More projects coming soon...)
 
 ## 🛠 Skills
 
