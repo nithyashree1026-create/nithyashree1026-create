@@ -17,6 +17,13 @@
 ✨ Aesthetic To-Do web app with theme customization, date-wise task management and weekly progress tracking  
 ⚙️ Built using HTML, CSS, JavaScript & LocalStorage
 
+### 🍽️ Indian Recipe Search App
+
+🔗 https://indian-recipe-search-c75806.netlify.app  
+🍛 Search recipes by name, ingredient, category & area  
+🎤 Includes voice search, real food images & step-by-step cooking instructions  
+🚫 Filters out unwanted ingredients like beef and pork  
+
 (More projects coming soon...)
 
 ## 🛠 Skills
