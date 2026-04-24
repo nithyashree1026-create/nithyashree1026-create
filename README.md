@@ -18,7 +18,6 @@
 ⚙️ Built using HTML, CSS, JavaScript & LocalStorage
 
 ### 🍽️ Indian Recipe Search App
-
 🔗 https://indian-recipe-search-c75806.netlify.app  
 🍛 Search recipes by name, ingredient, category & area  
 🎤 Includes voice search, real food images & step-by-step cooking instructions  
