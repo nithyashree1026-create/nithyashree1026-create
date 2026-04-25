@@ -7,7 +7,6 @@
 ---
 
 ## 🔥 My Projects
-
 ### ✨ Random Quote Generator
 🔗 https://random-quote-generator-6367bb.netlify.app  
 💬 Generates 200+ inspiring quotes across different categories  
