@@ -8,14 +8,20 @@
 
 ## 🔥 My Projects
 
+### ✨ Random Quote Generator
+🔗 https://random-quote-generator-6367bb.netlify.app  
+💬 Generates 200+ inspiring quotes across different categories  
+🌈 Includes dynamic backgrounds, animations, dark/light mode, voice read aloud, favorites, translation, API quotes, WhatsApp/Twitter sharing and download-as-image feature  
+⚙️ Built using HTML, CSS, JavaScript, LocalStorage, Web Speech API & APIs  
+
 ### 🍲 Recipe Finder App
 🔗 https://recipe-finder-3582ab.netlify.app  
-👉 Search recipes, ingredients, steps & videos
+👉 Search recipes, ingredients, steps & videos  
 
 ### 📝 Aesthetic To-Do List App
 🔗 https://aesthetic-nithya-todo-app.netlify.app  
 ✨ Aesthetic To-Do web app with theme customization, date-wise task management and weekly progress tracking  
-⚙️ Built using HTML, CSS, JavaScript & LocalStorage
+⚙️ Built using HTML, CSS, JavaScript & LocalStorage  
 
 ### 🍽️ Indian Recipe Search App
 🔗 https://indian-recipe-search-c75806.netlify.app  
@@ -25,18 +31,25 @@
 
 (More projects coming soon...)
 
+---
+
 ## 🛠 Skills
 
 - HTML  
 - CSS  
 - JavaScript  
 - API Integration  
+- LocalStorage  
+- Responsive Web Design  
+- DOM Manipulation  
 
 ---
 
 ## 🌱 Currently Learning
 
 - Web Development  
+- JavaScript Projects  
+- API-based Applications  
 - Building real-world projects  
 
 ---
