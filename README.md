@@ -29,8 +29,8 @@
 🚫 Filters out unwanted ingredients like beef and pork  
 
 ### 🌤️ Weather & City Explorer Dashboard
-
 🔗 https://weather-city-explorer2005.netlify.app
+
 🌡️ Real-time weather updates with yesterday, today & tomorrow forecast
 🏙️ Explore cities with image slider of famous places & landmarks
 🗺️ Browse Indian cities by state with interactive category view
