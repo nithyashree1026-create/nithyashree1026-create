@@ -28,6 +28,15 @@
 🎤 Includes voice search, real food images & step-by-step cooking instructions  
 🚫 Filters out unwanted ingredients like beef and pork  
 
+### 🌤️ Weather & City Explorer Dashboard
+🔗 https://your-netlify-link.netlify.app
+🌡️ Real-time weather updates with yesterday, today & tomorrow forecast
+🏙️ Explore cities with image slider of famous places & landmarks
+🗺️ Browse Indian cities by state with interactive category view
+⭐ Save favorite cities & manage recent searches
+🎤 Voice search + 📍 current location weather support
+🌗 Dark/light mode & 🌡️ °C/°F toggle for better experience
+
 (More projects coming soon...)
 
 ---
