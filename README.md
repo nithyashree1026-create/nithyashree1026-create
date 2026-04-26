@@ -32,10 +32,15 @@
 🔗 https://weather-city-explorer2005.netlify.app
 
 🌡️ Real-time weather updates with yesterday, today & tomorrow forecast
+
 🏙️ Explore cities with image slider of famous places & landmarks
+
 🗺️ Browse Indian cities by state with interactive category view
+
 ⭐ Save favorite cities & manage recent searches
+
 🎤 Voice search + 📍 current location weather support
+
 🌗 Dark/light mode & 🌡️ °C/°F toggle for better experience
 
 (More projects coming soon...)
