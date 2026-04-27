@@ -44,8 +44,7 @@
 🌗 Dark/light mode & 🌡️ °C/°F toggle for better experience
 
 ### 💸 MoneyMate – Premium Money Management App
-🔗 https://your-link.netlify.app  
-
+🔗 https://money-mate-2616.netlify.app
 ✨ Aesthetic personal finance tracker to manage money smartly  
 
 👉 Track income, expenses, budgets & savings  
