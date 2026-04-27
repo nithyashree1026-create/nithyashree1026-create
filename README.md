@@ -43,6 +43,24 @@
 
 🌗 Dark/light mode & 🌡️ °C/°F toggle for better experience
 
+### 💸 MoneyMate – Premium Money Management App
+🔗 https://your-link.netlify.app  
+
+✨ Aesthetic personal finance tracker to manage money smartly  
+
+👉 Track income, expenses, budgets & savings  
+📊 Smart dashboard with analytics & graphs  
+🎯 Budget planner + spending alerts  
+🏆 Monthly financial report card  
+🏦 Savings goal tracker  
+🚦 Category spending limits  
+📅 Calendar-based expense tracking  
+🎤 Voice-based transaction input  
+📂 Export data (CSV)  
+🌙 Dark mode support  
+
+⚙️ Built using HTML, CSS, JavaScript, Chart.js & LocalStorage
+
 (More projects coming soon...)
 
 ---
