@@ -30,23 +30,16 @@
 
 ### 🌤️ Weather & City Explorer Dashboard
 🔗 https://weather-city-explorer2005.netlify.app
-
 🌡️ Real-time weather updates with yesterday, today & tomorrow forecast
-
 🏙️ Explore cities with image slider of famous places & landmarks
-
-🗺️ Browse Indian cities by state with interactive category view
-
+🗺️ Browse Indian cities by state with interactive category vie
 ⭐ Save favorite cities & manage recent searches
-
 🎤 Voice search + 📍 current location weather support
-
 🌗 Dark/light mode & 🌡️ °C/°F toggle for better experience
 
 ### 💸 MoneyMate – Premium Money Management App
 🔗 https://money-mate-2616.netlify.app
 ✨ Aesthetic personal finance tracker to manage money smartly  
-
 👉 Track income, expenses, budgets & savings  
 📊 Smart dashboard with analytics & graphs  
 🎯 Budget planner + spending alerts  
