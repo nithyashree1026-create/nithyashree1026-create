@@ -1,4 +1,4 @@
-# Hi, I'm Nithya 👋
+#  I'm Nithya 
 
 🎓 Final Year ECE Student  
 💻 Learning Web Development  
