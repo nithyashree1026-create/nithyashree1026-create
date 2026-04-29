@@ -51,7 +51,12 @@
 📂 Export data (CSV)  
 🌙 Dark mode support  
 
-⚙️ Built using HTML, CSS, JavaScript, Chart.js & LocalStorage
+### 🎧 Mood-Based Music Recommender
+🔗 https://your-link-here.netlify.app  
+🎵 Play music based on mood, language & intensity directly inside the app  
+🌍 Supports multiple languages like English, Hindi, Kannada, Telugu, Tamil & more  
+✨ Includes premium UI with glassmorphism, animations, dark/light mode, favorites & recently played  
+⚙️ Built using HTML, CSS, JavaScript, LocalStorage & YouTube Embed API
 
 (More projects coming soon...)
 
