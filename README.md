@@ -90,14 +90,8 @@
 
 ## 🎯 Goal
 
-To become a skilled developer and build impactful projects 🚀  
+
 
 ---
 
-## 📊 GitHub Stats
 
-![Nithya's GitHub stats](https://github-readme-stats.vercel.app/api?username=nithyashree1026-create&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nithyashree1026-create&layout=compact&theme=radical)
-
-![GitHub Streak](https://streak-stats.demolab.com?user=nithyashree1026-create&theme=radical)
