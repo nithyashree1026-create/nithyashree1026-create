@@ -92,8 +92,8 @@
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=nithyashree1026-create&theme=radical)
 
-
-
 ---
+## 📊 GitHub Stats
 
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=nithyashree1026-create&show_icons=true&theme=radical)
 
