@@ -97,3 +97,4 @@
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=nithyashree1026-create&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nithyashree1026-create&layout=compact&theme=radical)
