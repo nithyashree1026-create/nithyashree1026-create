@@ -76,7 +76,6 @@
 - API Integration  
 - LocalStorage  
 - Responsive Web Design  
-- DOM Manipulation  
 
 ---
 
